@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-        title: Text('Aplikasi Flutter Pertama Jamilatuzzahra',
+        title: Text('Aplikasi Flutter Pertama Gusti Amanda Sielviana',
         style: TextStyle(color: Colors.blueGrey),),
         backgroundColor: const Color.fromARGB(255, 181, 201, 235),
         centerTitle: true,
